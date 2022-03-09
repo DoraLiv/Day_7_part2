@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+// See https://aka.ms/new-console-template for more information
+
 
 
 Console.WriteLine("Please write the number of the day");
@@ -18,7 +20,7 @@ switch (day)
     case 7:
         Console.WriteLine("It is holiday");
         break;
-        default:
+    default:
         Console.WriteLine("Invalid number!");
         break;
 }
